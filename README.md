@@ -1,7 +1,7 @@
 ### Installation
 
 ```sh
-git clone https://github.com/toahacse/codingTest.git
+git clone https://github.com/toahacse/banking_system.git
 ```
 
 ```sh
